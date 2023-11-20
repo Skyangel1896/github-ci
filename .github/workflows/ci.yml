@@ -12,7 +12,7 @@ on:
 jobs:
   build-test:
     # name is the human friendly name for the job
-    name: Run Unit Tests
+    name: Lizzy  Testing
     # this is the type of virtual machine that the job will run on - jobs are handled by "runners", which is just a # virtual machine. Github hosts runners, which will we utilize, but it is possible to use self hosted runners # as well
     runs-on: ubuntu-latest
     # our jobs contains a sequence of actions, known as steps          
